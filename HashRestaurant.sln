@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashRestaurant", "HashRestaurant\HashRestaurant.csproj", "{DA65D2AF-B272-46FC-98D5-478D8D1ADBC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA65D2AF-B272-46FC-98D5-478D8D1ADBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA65D2AF-B272-46FC-98D5-478D8D1ADBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA65D2AF-B272-46FC-98D5-478D8D1ADBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA65D2AF-B272-46FC-98D5-478D8D1ADBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A9B9588-1167-4E01-A5F7-A6392EE2E408}
+	EndGlobalSection
+EndGlobal
